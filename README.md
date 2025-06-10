@@ -27,8 +27,10 @@ The methodology is scalable, interpretable, and applicable to various building t
 
 ## Example Results
 
-![Prediction Example](images/prediction_vs_real.png)
-![Fridge Disaggregation](images/fridge_comparison.png)
+![Fridge Disaggregation on 30 days](Fridge_30.png)
+![Heating Disaggregation on 30 days](Heating_30.png)
+![Prediction of total consumption in January 2019](Prediction_Jan2019.png)
+![Train/Test Split of the data](Total_consumption_traintest.png)
 
 ## Requirements
 - Python ≥ 3.8
